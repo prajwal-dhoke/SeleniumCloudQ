@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2K4T2h9OeRw=",
+  "success": true,
+  "projectFilePath": "D:\\Internship Task\\CloudQA\\SeleniumCloudQA\\SeleniumCloudQA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.support\\4.31.0\\selenium.support.4.31.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.webdriver\\4.31.0\\selenium.webdriver.4.31.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.webdriver.chromedriver\\135.0.7049.8400\\selenium.webdriver.chromedriver.135.0.7049.8400.nupkg.sha512"
+  ],
+  "logs": []
+}
